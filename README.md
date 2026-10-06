@@ -109,3 +109,14 @@ Third-party software, all rights belong to the original authors (longpanda). Thi
 <sub>Third-party software, all rights belong to the original authors. Names and trademarks are the property of their respective owners. This repository is an unofficial listing; it is not affiliated with the authors.</sub>
 
 </div>
+
+
+## More links
+
+- 🌐 **[Download Ventoy on SOFTGIT](https://softgit.pro/p/ventoy)** — the full listing and download.
+- 📄 **[Ventoy web page](https://abjurerboom97.github.io/ventoy-download/)** — standalone info page.
+- 🗂️ [More Utilities software](https://softgit.pro/category/utilities)
+- 🏠 [SOFTGIT home](https://softgit.pro) · [All apps](https://softgit.pro/apps)
+- 🔒 [Verify a download (SHA-256)](https://softgit.pro/security)
+
+> Unofficial listing for Ventoy. Third-party software; all rights belong to the original authors.
